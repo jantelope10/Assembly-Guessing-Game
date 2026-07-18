@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="GuessingGame_Assembly/GuessingGame_Assembly.vcxproj" Id="40b2440c-8de5-43ad-9ddf-77ecc2d8656f" />
+</Solution>
